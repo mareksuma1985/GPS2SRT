@@ -3,4 +3,4 @@ This app records video and saves your speed and location. Speed is saved as subt
 
 ![screenshot](screenshots/pl.bezzalogowe.gps2srt_en_001.png)
 
-Latest build of the app can be downloaded here: [GPS2SRT-release.apk](https://github.com/mareksuma1985/GPS2SRT/blob/master/GPS2SRT/build/outputs/apk/debug/GPS2SRT-debug.apk) or from Apkpure: [Speed recorder](https://apkpure.com/pl/pl.bezzalogowe.gps2srt).
+Latest build of the app can be downloaded here: [GPS2SRT-debug.apk](https://github.com/mareksuma1985/GPS2SRT/blob/master/GPS2SRT/build/outputs/apk/debug/GPS2SRT-debug.apk) or from Apkpure: [Speed recorder](https://apkpure.com/pl/speed-recorder/pl.bezzalogowe.gps2srt).
